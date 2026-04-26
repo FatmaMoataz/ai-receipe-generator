@@ -5,7 +5,7 @@ st.set_page_config(page_title="AI Chef", page_icon="🍳")
 
 st.title("👨‍🍳 AI Recipe Generator")
 
-API_URL = "https://bigger-historic-trained-version.trycloudflare.com/generate"
+API_URL = "https://helping-pubmed-charles-invalid.trycloudflare.com/generate"
 
 ingredients = st.text_input("Enter your ingredients (e.g., Chicken, Lemon):")
 
