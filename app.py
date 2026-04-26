@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-st.set_page_config(page_config_title="AI Chef", page_icon="🍳")
+st.set_page_config(page_title="AI Chef", page_icon="🍳")
 
 st.title("👨‍🍳 AI Recipe Generator")
 
