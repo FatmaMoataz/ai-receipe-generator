@@ -3,7 +3,17 @@
 An intelligent full-stack application that transforms a list of ingredients into a professional culinary recipe. This project demonstrates how to bridge high-performance AI models with a user-friendly web interface.
 
 ## 📺 Live Demo
-![AI Recipe Generator Demo](https://drive.google.com/file/d/1FodCsGDfcUhwlsax5BBJdUiZe_xJKEpQ/view?usp=sharing)
+<div align="center">
+  <a href="https://drive.google.com/file/d/1FodCsGDfcUhwlsax5BBJdUiZe_xJKEpQ/view?usp=sharing">
+    <img src="https://img.shields.io/badge/🎥_Watch_Video_Demo-Click_Here-red?style=for-the-badge" alt="Watch Demo">
+  </a>
+</div>
+
+
+## 📓 Kaggle Notebook
+You can find the full backend implementation and model inference logic here:
+[![Kaggle](https://img.shields.io/badge/Kaggle-00AFEF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/fatmamoataz/test-project)
+
 
 ---
 
